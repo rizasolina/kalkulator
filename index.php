@@ -17,7 +17,7 @@
 		</div>
 		<div class="section">
 			<h6 class="text-white text-right py-1">by Riza Maryam Solina</h6>
-			<form action="latihan5.php" method="post" class="py-2">
+			<form action="index.php" method="post" class="py-2">
 				<div class="form-group">
 					<label class="text-white">Bilangan 1</label>
 					<input type="number" class="form-control" name="bil1" placeholder="Bilangan 1" required autofocus>
